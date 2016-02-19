@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name"> ~~~~ Zapeytte ~~~~ </string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_pseudo">Pseudo</string>
+    <string name="prompt_mdp">mot de passe</string>
+    <string name="action_sign_in">Connexion ou inscription</string>
+    <string name="action_sign_in_short">Connexion</string>
+    <string name="error_invalid_pseudo">Ce Pseudo est invalid</string>
+    <string name="error_invalid_mdp">Ce mot de passe est trop court</string>
+    <string name="error_incorrect_mdp">Mot de passe incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"soushi de Pseudo"</string>
+    <string name="action_connexion_anonyme">"Rester anonyme"</string>
+    <string name="Pseudo">Pseudo</string>
+</resources>
