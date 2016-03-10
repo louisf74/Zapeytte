@@ -1,7 +1,5 @@
 package com.example.flori.zapeytte.model;
 
-import java.util.Date;
-
 public class Sondage {
 
     private int idquestionnaire;

@@ -9,8 +9,6 @@ import android.widget.Button;
 import android.widget.TextView;
 import com.github.kevinsawicki.http.HttpRequest;
 import com.google.gson.Gson;
-import com.google.gson.JsonElement;
-import com.google.gson.JsonParser;
 
 /**
  * A login screen that offers login via pseudo/password.

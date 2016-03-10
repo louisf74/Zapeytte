@@ -27,6 +27,10 @@ public class SondagesZapeytte extends AppCompatActivity {
         setupCollapsingToolbar();
     }
 
+    public void onBackPressed() {
+        finish();
+    }
+
     private void setupCollapsingToolbar() {
         final CollapsingToolbarLayout collapsingToolbar = (CollapsingToolbarLayout) findViewById(
                 R.id.collapse_toolbar);
